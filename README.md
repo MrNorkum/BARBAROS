@@ -67,7 +67,7 @@ without breaking safety or privilege boundaries.
 
 BARBAROS uses a **web-based interface** as its primary user interaction model.
 
-- UI is written in HTML, CSS, and JavaScript
+- UI is written in HTML, CSS, and JavaScript (mostly WASM)
 - The same UI model is used for desktop and mobile devices
 - No traditional desktop environment is required
 
